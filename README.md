@@ -6,7 +6,7 @@ Merhaba, ben Abdulkadir Oluç. Muğla Sıtkı Koçman Üniversitesi Elektrik-Ele
 Bu depo, RF (Radyo Frekansı) ve mikrodalga mühendisliği alanındaki çalışmalarımı, teorik konseptleri pratiğe dökme sürecimi ve simülasyon yeteneklerimi belgelendirmek amacıyla oluşturulmuştur. Buradaki projeler, en temel pasif devre elemanı tasarımlarından başlayarak adım adım daha karmaşık RF sistemlerine ve anten tasarımlarına doğru ilerleyen bir öğrenme ve geliştirme serüvenini temsil etmektedir.
 
 ## 🛠️ Kullanılan Araçlar ve Teknolojiler
-* **Simülasyon & Tasarım:** Ansoft Designer, KiCad, Proteus, MATLAB
+* **Simülasyon & Tasarım:** Ansoft Designer , CST Stuio
 * **Donanım & Test:** Vektör Ağ Analizörü (VNA) teorisi, S-parametre analizi
 * **Odak Alanları:** Empedans Eşleştirme (Impedance Matching), Filtre Tasarımı, Anten Teorisi
 
